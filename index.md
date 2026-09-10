@@ -10,6 +10,7 @@ title: "Autonomous Systems & Robotics"
 <p align="left">
   <img src="lm.png" alt="Lockheed Martin" height="40" style="margin-right:20px;">
   <img src="nsf.png" alt="NSF" height="40" style="margin-right:20px;">
+  <img src="ut.png" alt="UT Austin" height="40">
   <img src="cu.png" alt="CU Boulder" height="40">
 </p>
 
