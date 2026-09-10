@@ -5,3 +5,7 @@ theme: minima
 
 # Optional: social + markdown settings
 markdown: kramdown
+
+header_pages:
+  - index.md
+  - projects.md
