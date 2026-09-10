@@ -12,7 +12,7 @@ Below are selected projects and demos that illustrate my work in autonomy, robot
 
 ## Project ARES — Autonomous Docking & Safety-Critical GNC
 
-**Demo:** [![Project ARES Grid](https://skannah.github.io/aresgrid.png)]
+**Model:** [![Project ARES Grid](https://skannah.github.io/aresgrid.png)]
 
 **Overview:**  
 Autonomous 6-DOF docking system designed to explore robust proximity operations and safety-critical guidance, navigation, and control.
@@ -79,7 +79,7 @@ NSF-backed computer vision workflow platform with multi-camera support for real-
 
 ## Robotic Arm
 
-**Model:** [![Robotic Arm](https://img.youtube.com/vi/SDDUo-M2lAQ/0.jpg)](https://youtu.be/SDDUo-M2lAQ)
+**Demo:** [![Robotic Arm](https://img.youtube.com/vi/SDDUo-M2lAQ/0.jpg)](https://youtu.be/SDDUo-M2lAQ)
 
 
 **Overview:**  
