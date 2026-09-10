@@ -5,8 +5,6 @@ title: "Autonomous Systems & Robotics"
 
 # Surender — Autonomous Systems & Robotics
 
-<img src="https://skannah.github.io/profile.PNG" alt="Profile Picture" width="200" style="border-radius: 50%;">
-
 ## About Me
 
 I’m an autonomy and robotics engineer focused on safety‑critical systems, robust GNC, dense perception, and multi‑sensor fusion. My work spans orbital docking, SLAM-based navigation, embedded ML, and mission-critical defense autonomy. I enjoy building full-stack robotics systems that combine perception, planning, and control into reliable autonomous behavior.
