@@ -1,8 +1,15 @@
 ---
 layout: home
+title: "Surender Kannah"
 ---
 
 # Surender Kannah — Autonomous Systems & Robotics
+
+<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; margin-top:10px; margin-bottom:20px;">
+  <a href="projects.md">Projects</a>
+  <a href="research.md">Research Interests</a>
+  <a href="courses.md">Graduate Coursework</a>
+</div>
 
 ## Affiliations
 
@@ -13,8 +20,6 @@ layout: home
   <img src="cu.png" alt="CU Boulder" height="40">
 </p>
 
----
-
 ## About Me
 
 I’m an autonomy and robotics engineer focused on **safety‑critical systems**, **robust GNC**, **dense perception**, and **multi‑sensor fusion**. My work spans **orbital docking**, **SLAM‑based navigation**, **embedded ML**, and **mission‑critical defense autonomy**.
@@ -23,12 +28,8 @@ Outside of engineering, I’m passionate about product building, early‑stage s
 
 This page highlights selected projects and demos that reflect my trajectory toward **orbital‑grade autonomy** and **mission‑critical robotics**.
 
----
-
 ## Resume
 [Download Resume](https://skannah.github.io/Kannah_Surender_Resume.pdf)
-
----
 
 ## Featured Projects
 
@@ -55,17 +56,11 @@ Optimized CV/ML models for real‑time inference on constrained hardware using T
 
 For more detail, see the [Projects](projects.md) page.
 
----
-
 ## Coursework
 See selected graduate coursework: [Courses](courses.md)
 
----
-
 ## Research
 Explore my autonomy research interests: [Research](research.md)
-
----
 
 ## Contact
 
