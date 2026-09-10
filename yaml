@@ -1,0 +1,7 @@
+# _config.yml
+title: "Surender — Autonomous Systems & Robotics"
+description: "Autonomy, GNC, dense perception, and safety-critical robotics."
+theme: minima
+
+# Optional: social + markdown settings
+markdown: kramdown
