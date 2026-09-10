@@ -31,3 +31,7 @@ This page highlights selected projects and demos that reflect my trajectory towa
 - **Embedded ML & Real-Time Inference Demo**
 
 For more detail, see the [Projects](projects.md) page.
+
+---
+**Contact:** surender@gmail.com • LinkedIn: /in/surenderkannah • GitHub: skannah
+
