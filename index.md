@@ -69,6 +69,22 @@ Explore my autonomy research interests: [Research](research.md)
 
 ## Contact
 
+<div style="display:flex; gap:20px; align-items:center;">
+
+  <a href="mailto:surender@gmail.com">
+    <img src="email.svg" height="32">
+  </a>
+
+  <a href="https://github.com/skannah">
+    <img src="github.svg" height="32">
+  </a>
+
+  <a href="https://www.linkedin.com/in/surenderkannah">
+    <img src="linkedin.svg" height="32">
+  </a>
+
+</div>
+
 **Email:** surender@gmail.com  
 **LinkedIn:** /in/surenderkannah  
 **GitHub:** skannah
