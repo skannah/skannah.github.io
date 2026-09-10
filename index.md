@@ -5,7 +5,7 @@ title: "Autonomous Systems & Robotics"
 
 # Surender — Autonomous Systems & Robotics
 
-<img src="https://skannah.github.io/profile.png" alt="Profile Picture" width="200" style="border-radius: 50%;">
+<img src="https://skannah.github.io/profile.PNG" alt="Profile Picture" width="200" style="border-radius: 50%;">
 
 ## About Me
 
