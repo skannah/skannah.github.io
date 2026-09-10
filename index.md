@@ -31,8 +31,8 @@ This page highlights selected projects and demos that reflect my trajectory towa
     <a href="https://youtu.be/rvvRkMmm3tA">
       <img src="https://img.youtube.com/vi/rvvRkMmm3tA/0.jpg" style="width:100%; border-radius:8px;">
     </a>
-    <h3>Project ARES — Autonomous Docking</h3>
-    <p>6‑DOF docking with Lyapunov safety layers and Monte‑Carlo robustness.</p>
+    <h3>Multi‑Sensor Fusion & Tracking</h3>
+    <p>EKF fusion + JPDA/MHT multi‑hypothesis tracking.</p>
   </div>
 
   <div style="text-align:center;">
@@ -47,33 +47,18 @@ This page highlights selected projects and demos that reflect my trajectory towa
     <a href="https://youtu.be/SDDUo-M2lAQ">
       <img src="https://img.youtube.com/vi/SDDUo-M2lAQ/0.jpg" style="width:100%; border-radius:8px;">
     </a>
-    <h3>Dense 3D Perception Pipeline</h3>
-    <p>Multi‑camera dense reconstruction using stereo depth + segmentation.</p>
+    <h3>Robotic Arm</h3>
+    <p>Hardware + ML + Software Integration</p>
   </div>
 
   <div style="text-align:center;">
     <a href="https://youtu.be/WRZVafBsNlI">
       <img src="https://img.youtube.com/vi/WRZVafBsNlI/0.jpg" style="width:100%; border-radius:8px;">
     </a>
-    <h3>Multi‑Sensor Fusion & Tracking</h3>
-    <p>EKF fusion + JPDA/MHT multi‑hypothesis tracking.</p>
-  </div>
-
-  <div style="text-align:center;">
-    <a href="https://youtu.be/DRghkLMc4aI">
-      <img src="https://img.youtube.com/vi/DRghkLMc4aI/0.jpg" style="width:100%; border-radius:8px;">
-    </a>
     <h3>Julia CV — Multi‑Camera Workflow</h3>
     <p>NSF I‑Corps CV workflow for defect detection across multi‑camera systems.</p>
   </div>
 
-  <div style="text-align:center;">
-    <a href="https://youtu.be/UvIVTmqDgEk">
-      <img src="https://img.youtube.com/vi/UvIVTmqDgEk/0.jpg" style="width:100%; border-radius:8px;">
-    </a>
-    <h3>Embedded ML & Real‑Time Inference</h3>
-    <p>Optimized CV/ML inference on constrained hardware using TensorRT.</p>
-  </div>
 
 </div>
 
