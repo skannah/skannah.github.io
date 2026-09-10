@@ -10,11 +10,11 @@ kramdown:
 url: "https://skannah.github.io"
 baseurl: ""
 
-header_pages:
-  - index.md
-  - projects.md
-  - research.md
-  - courses.md
+<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; margin-top:10px; margin-bottom:20px;">
+  <a href="projects.md">Projects</a>
+  <a href="research.md">Research Interests</a>
+  <a href="courses.md">Graduate Coursework</a>
+</div>
 
 plugins:
   - jekyll-remote-theme
