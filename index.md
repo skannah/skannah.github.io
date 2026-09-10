@@ -80,7 +80,7 @@ Explore my autonomy research interests: [Research](research.md)
   </a>
 
   <a href="https://www.linkedin.com/in/surenderkannah">
-    <img src="linkedin.svg" height="32">
+    <img src="linkedin.png" height="32">
   </a>
 
 </div>
