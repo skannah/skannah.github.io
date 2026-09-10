@@ -12,7 +12,7 @@ Below are selected projects and demos that illustrate my work in autonomy, robot
 
 ## Project ARES — Autonomous Docking & Safety-Critical GNC
 
-**Demo:** [![Project ARES Grid](https://raw.githubusercontent.com/skannah/skannah.github.io/main/aresgrid.png)]
+**Demo:** [![Project ARES Grid](https://skannah.github.io/aresgrid.png)]
 
 **Overview:**  
 Autonomous 6-DOF docking system designed to explore robust proximity operations and safety-critical guidance, navigation, and control.
