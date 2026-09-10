@@ -11,3 +11,9 @@ kramdown:
 header_pages:
   - index.md
   - projects.md
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: minima
+
