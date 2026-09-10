@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Surender Kannah — Autonomous Systems & Robotics</title>
+
+<style>
+
+/* ---------- GLOBAL LIGHT MODE (Stanford ASL Light) ---------- */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #ffffff;
+  color: #222;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* ---------- DARK MODE (Stanford ASL Dark) ---------- */
+.dark {
+  background: #0d1b2a;
+  color: #e0e1dd;
+}
+
+/* ---------- Sticky Nav ---------- */
+#navbar {
+  position: sticky;
+  top: 0;
+  background: #ffffff;
+  border-bottom: 1px solid #ddd;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 999;
+  transition: background 0.3s, color 0.3s;
+}
+
+.dark #navbar {
+  background: #1b263b;
+  border-bottom: 1px solid #415a77;
+}
+
+#navbar a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #1b263b;
+  font-size: 18px;
+  transition: opacity 0.2s;
+}
+
+.dark #navbar a {
+  color: #e0e1dd;
+}
+
+#navbar a:hover {
+  opacity: 0.6;
+}
+
+/* ---------- Dark Mode Toggle Button ---------- */
+#darkToggle {
+  background: none;
+  border: none;
+  font-size: 22px;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.dark #darkToggle {
+  color: #e0e1dd;
+}
+
+#darkToggle:hover {
+  opacity: 0.6;
+}
+
+/* ---------- Smooth Scroll Animations ---------- */
+.fade-section {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.6s ease-out;
+}
+
+.fade-section.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ---------- Animated Section Divider ---------- */
+.divider {
+  width: 0;
+  height: 3px;
+  background: #1b263b;
+  margin: 40px auto;
+  transition: width 1s ease;
+}
+
+.dark .divider {
+  background: #e0e1dd;
+}
+
+.divider.visible {
+  width: 80%;
+}
+
+/* ---------- Project Filtering Buttons ---------- */
+#filters {
+  margin-bottom: 20px;
+}
+
+#filters button {
+  margin-right: 10px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  border: 1px solid #1b263b;
+  background: #ffffff;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.dark #filters button {
+  background: #1b263b;
+  color: #e0e1dd;
+  border-color: #e0e1dd;
+}
+
+#filters button:hover {
+  background: #e0e1dd;
+}
+
+.dark #filters button:hover {
+  background: #415a77;
+}
+
+/* ---------- Project Grid ---------- */
+#projectGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 35px;
+}
+
+.project-card {
+  padding: 10px;
+  border-radius: 10px;
+  transition: 0.25s;
+}
+
+.project-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 22px rgba(0,0,0,0.15);
+}
+
+.dark .project-card:hover {
+  box-shadow: 0 8px 22px rgba(255,255,255,0.1);
+}
+
+/* ---------- Project Image + Overlay ---------- */
+.project-img {
+  position: relative;
+}
+
+.project-img img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.55);
+  color: white;
+  opacity: 0;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  transition: 0.25s;
+}
+
+.project-img:hover .overlay {
+  opacity: 1;
+}
+
+/* ---------- Tags ---------- */
+.tags span {
+  background: #eee;
+  padding: 4px 8px;
+  border-radius: 6px;
+  margin-right: 6px;
+  transition: 0.2s;
+}
+
+.tags span:hover {
+  background: #ddd;
+}
+
+.dark .tags span {
+  background: #415a77;
+  color: #e0e1dd;
+}
+
+.dark .tags span:hover {
+  background: #778da9;
+}
+
+</style>
+</head>
+<body>
+<nav id="navbar">
+  <div class="nav-left">
+    <a href="/">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="research.html">Research</a>
+    <a href="courses.html">Coursework</a>
+    <a href="Kannah_Surender_Resume.pdf">Resume</a>
+  </div>
+
+  <button id="darkToggle">🌙</button>
+</nav>
+<div class="fade-section">
+<h1>Surender Kannah — Autonomous Systems & Robotics</h1>
+
+<h2>Affiliations</h2>
+<p>
+  <img src="lm.png" height="40" style="margin-right:20px;">
+  <img src="nsf.png" height="40" style="margin-right:20px;">
+  <img src="ut.png" height="40" style="margin-right:20px;">
+  <img src="cu.png" height="40">
+</p>
+
+<h2>About Me</h2>
+<p>
+I’m an autonomy and robotics engineer focused on <strong>safety‑critical systems</strong>, 
+<strong>robust GNC</strong>, <strong>dense perception</strong>, and <strong>multi‑sensor fusion</strong>.
+My work spans <strong>orbital docking</strong>, <strong>SLAM‑based navigation</strong>, 
+<strong>embedded ML</strong>, and <strong>mission‑critical defense autonomy</strong>.
+</p>
+
+<p>
+This page highlights selected projects and demos that reflect my trajectory toward 
+<strong>orbital‑grade autonomy</strong> and <strong>mission‑critical robotics</strong>.
+</p>
+
+<h2>Resume</h2>
+<p><a href="Kannah_Surender_Resume.pdf">Download Resume</a></p>
+</div>
+
+<div class="divider"></div>
+<div id="filters" class="fade-section">
+  <button onclick="filterProjects('all')">All</button>
+  <button onclick="filterProjects('SLAM')">SLAM</button>
+  <button onclick="filterProjects('GNC')">GNC</button>
+  <button onclick="filterProjects('CV')">CV</button>
+  <button onclick="filterProjects('ML')">ML</button>
+  <button onclick="filterProjects('Fusion')">Fusion</button>
+</div>
+
+<div class="divider"></div>
+<div id="projectGrid">
+
+  <div class="project-card fade-section" data-tag="Fusion GNC">
+    <div class="project-img">
+      <img src="https://img.youtube.com/vi/rvvRkMmm3tA/0.jpg">
+      <div class="overlay">View Project</div>
+    </div>
+    <h3>Multi‑Sensor Fusion & Tracking</h3>
+    <p>EKF fusion + JPDA/MHT multi‑hypothesis tracking.</p>
+    <div class="tags">
+      <span>Fusion</span><span>GNC</span><span>EKF</span>
+    </div>
+  </div>
+
+  <div class="project-card fade-section" data-tag="SLAM ML CV">
+    <div class="project-img">
+      <img src="https://img.youtube.com/vi/gd0OGeUqW24/0.jpg">
+      <div class="overlay">View Project</div>
+    </div>
+    <h3>TurtleBot3 Navigation — SLAM + Nav2</h3>
+    <p>Full SLAM + AMCL + Nav2 stack with custom tuning.</p>
+    <div class="tags">
+      <span>SLAM</span><span>CV</span><span>ML</span>
+    </div>
+  </div>
+
+  <div class="project-card fade-section" data-tag="ML Hardware Control">
+    <div class="project-img">
+      <img src="https://img.youtube.com/vi/SDDUo-M2lAQ/0.jpg">
+      <div class="overlay">View Project</div>
+    </div>
+    <h3>Robotic Arm</h3>
+    <p>Hardware + ML + Software Integration.</p>
+    <div class="tags">
+      <span>Hardware</span><span>ML</span><span>Control</span>
+    </div>
+  </div>
+
+  <div class="project-card fade-section" data-tag="CV ML Fusion">
+    <div class="project-img">
+      <img src="https://img.youtube.com/vi/WRZVafBsNlI/0.jpg">
+      <div class="overlay">View Project</div>
+    </div>
+    <h3>Julia CV — Multi‑Camera Workflow</h3>
+    <p>NSF I‑Corps CV workflow for defect detection across multi‑camera systems.</p>
+    <div class="tags">
+      <span>CV</span><span>ML</span><span>Fusion</span>
+    </div>
+  </div>
+
+</div>
+
+<div class="divider"></div>
+<div class="fade-section">
+<h2>Contact</h2>
+
+<p>
+  <a href="mailto:surender@gmail.com"><img src="email.svg" height="32"></a>
+  <a href="https://github.com/skannah"><img src="github.svg" height="32"></a>
+  <a href="https://www.linkedin.com/in/surenderkannah"><img src="linkedin.png" height="32"></a>
+</p>
+
+<p>Email: surender@gmail.com</p>
+<p>LinkedIn: /in/surenderkannah</p>
+<p>GitHub: skannah</p>
+</div>
+<script>
+/* ---------- Dark Mode Toggle ---------- */
+document.getElementById("darkToggle").onclick = () => {
+  document.body.classList.toggle("dark");
+};
+
+/* ---------- Project Filtering ---------- */
+function filterProjects(tag) {
+  document.querySelectorAll(".project-card").forEach(card => {
+    card.style.display = (tag === "all" || card.dataset.tag.includes(tag)) ? "block" : "none";
+  });
+}
+
+/* ---------- Smooth Scroll Animations ---------- */
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) entry.target.classList.add("visible");
+  });
+});
+
+document.querySelectorAll(".fade-section, .divider").forEach(sec => observer.observe(sec));
+</script>
+</body>
+</html>
+
