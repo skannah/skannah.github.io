@@ -1,9 +1,8 @@
 ---
 layout: home
-title: "Autonomous Systems & Robotics"
 ---
 
-# Surender — Autonomous Systems & Robotics
+# Surender Kannah — Autonomous Systems & Robotics
 
 ## Affiliations
 
