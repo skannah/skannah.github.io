@@ -5,6 +5,8 @@ theme: minima
 
 # Optional: social + markdown settings
 markdown: kramdown
+kramdown:
+  input: GFM
 
 header_pages:
   - index.md
