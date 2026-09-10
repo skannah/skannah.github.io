@@ -12,7 +12,7 @@ Below are selected projects and demos that illustrate my work in autonomy, robot
 
 ## Project ARES — Autonomous Docking & Safety-Critical GNC
 
-**Demo:** [YouTube](https://youtu.be/rvvRkMmm3tA)
+**Demo:** [![Project ARES](https://img.youtube.com/vi/rvvRkMmm3tA/0.jpg)](https://youtu.be/rvvRkMmm3tA)
 
 **Overview:**  
 Autonomous 6-DOF docking system designed to explore robust proximity operations and safety-critical guidance, navigation, and control.
