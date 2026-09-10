@@ -25,26 +25,57 @@ This page highlights selected projects and demos that reflect my trajectory towa
 
 ## Featured Projects
 
-### Project ARES — Autonomous Docking & Safety‑Critical GNC
-6‑DOF autonomous docking system with Lyapunov‑based safety layers, Monte‑Carlo robustness testing, and real‑time guidance.
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:25px;">
 
-### TurtleBot3 Navigation — SLAM + AMCL + Nav2
-Full navigation stack including SLAM mapping, AMCL localization, and Nav2 path planning with custom tuning.
+  <div style="text-align:center;">
+    <a href="https://youtu.be/rvvRkMmm3tA">
+      <img src="https://img.youtube.com/vi/rvvRkMmm3tA/0.jpg" style="width:100%; border-radius:8px;">
+    </a>
+    <h3>Project ARES — Autonomous Docking</h3>
+    <p>6‑DOF docking with Lyapunov safety layers and Monte‑Carlo robustness.</p>
+  </div>
 
-### Dense 3D Perception Pipeline
-Multi‑camera dense reconstruction pipeline using stereo depth, segmentation, and geometric fusion for navigation.
+  <div style="text-align:center;">
+    <a href="https://youtu.be/gd0OGeUqW24">
+      <img src="https://img.youtube.com/vi/gd0OGeUqW24/0.jpg" style="width:100%; border-radius:8px;">
+    </a>
+    <h3>TurtleBot3 Navigation — SLAM + Nav2</h3>
+    <p>Full SLAM + AMCL + Nav2 stack with custom tuning.</p>
+  </div>
 
-### Multi‑Sensor Fusion & Tracking (EKF + JPDA/MHT)
-Probabilistic tracking system combining IMU, vision, and radar using EKF fusion and multi‑hypothesis data association.
+  <div style="text-align:center;">
+    <a href="https://youtu.be/SDDUo-M2lAQ">
+      <img src="https://img.youtube.com/vi/SDDUo-M2lAQ/0.jpg" style="width:100%; border-radius:8px;">
+    </a>
+    <h3>Dense 3D Perception Pipeline</h3>
+    <p>Multi‑camera dense reconstruction using stereo depth + segmentation.</p>
+  </div>
 
-### Julia CV — Multi‑Camera Computer Vision Workflow (NSF I‑Corps)
-Production CV workflow for defect detection across multi‑camera systems; deployed in early B2B pilots.
+  <div style="text-align:center;">
+    <a href="https://youtu.be/WRZVafBsNlI">
+      <img src="https://img.youtube.com/vi/WRZVafBsNlI/0.jpg" style="width:100%; border-radius:8px;">
+    </a>
+    <h3>Multi‑Sensor Fusion & Tracking</h3>
+    <p>EKF fusion + JPDA/MHT multi‑hypothesis tracking.</p>
+  </div>
 
-### Vanguard Node — Robotic Arm & Fixture CAD
-Mechanical design and CAD for a robotic arm fixture enabling repeatable manipulation and perception experiments.
+  <div style="text-align:center;">
+    <a href="https://youtu.be/DRghkLMc4aI">
+      <img src="https://img.youtube.com/vi/DRghkLMc4aI/0.jpg" style="width:100%; border-radius:8px;">
+    </a>
+    <h3>Julia CV — Multi‑Camera Workflow</h3>
+    <p>NSF I‑Corps CV workflow for defect detection across multi‑camera systems.</p>
+  </div>
 
-### Embedded ML & Real‑Time Inference Demo
-Optimized CV/ML models for real‑time inference on constrained hardware using TensorRT and CUDA.
+  <div style="text-align:center;">
+    <a href="https://youtu.be/UvIVTmqDgEk">
+      <img src="https://img.youtube.com/vi/UvIVTmqDgEk/0.jpg" style="width:100%; border-radius:8px;">
+    </a>
+    <h3>Embedded ML & Real‑Time Inference</h3>
+    <p>Optimized CV/ML inference on constrained hardware using TensorRT.</p>
+  </div>
+
+</div>
 
 For more detail, see the [Projects](projects.md) page.
 
