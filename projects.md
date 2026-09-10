@@ -28,7 +28,8 @@ Autonomous 6-DOF docking system designed to explore robust proximity operations 
 
 ## TurtleBot3 Navigation — SLAM + AMCL + Nav2
 
-**Demo:** [YouTube](https://youtu.be/gd0OGeUqW24)
+**Demo:** [![TurtleBot3 Navigation](https://img.youtube.com/vi/gd0OGeUqW24/0.jpg)](https://youtu.be/gd0OGeUqW24)
+
 
 **Overview:**  
 Full-stack navigation pipeline on a TurtleBot3 platform in dynamic indoor environments.
@@ -44,7 +45,8 @@ Full-stack navigation pipeline on a TurtleBot3 platform in dynamic indoor enviro
 
 ## Dense 3D Perception Pipeline
 
-**Demo:** [YouTube](https://youtu.be/SDDUo-M2lAQ)
+**Demo:** [![Dense 3D Perception](https://img.youtube.com/vi/SDDUo-M2lAQ/0.jpg)](https://youtu.be/SDDUo-M2lAQ)
+
 
 **Overview:**  
 Dense 3D perception system using stereo depth and point clouds for environment understanding.
@@ -60,7 +62,8 @@ Dense 3D perception system using stereo depth and point clouds for environment u
 
 ## Multi-Sensor Fusion & Tracking (EKF + JPDA/MHT)
 
-**Demo:** [YouTube](https://youtu.be/WRZVafBsNlI)
+**Demo:** [![Sensor Fusion](https://img.youtube.com/vi/WRZVafBsNlI/0.jpg)](https://youtu.be/WRZVafBsNlI)
+
 
 **Overview:**  
 Multi-target tracking and sensor fusion pipeline for cluttered environments.
@@ -76,7 +79,8 @@ Multi-target tracking and sensor fusion pipeline for cluttered environments.
 
 ## Julia CV — Multi-Camera Computer Vision Workflow (NSF I-Corps)
 
-**Demo:** [YouTube](https://youtu.be/DRghkLMc4aI)
+**Demo:** [![Julia CV](https://img.youtube.com/vi/DRghkLMc4aI/0.jpg)](https://youtu.be/DRghkLMc4aI)
+
 
 **Overview:**  
 NSF-backed computer vision workflow platform with multi-camera support for real-world inspection and analysis.
@@ -92,7 +96,8 @@ NSF-backed computer vision workflow platform with multi-camera support for real-
 
 ## Vanguard Node — Robotic Arm & Fixture CAD
 
-**Model:** [Onshape CAD](https://cad.onshape.com/documents/29647b7642c6a92852f9c141/w/e913651535f8bf12c2ff7bff/e/1da40a6cccc6e58797d24128)
+**Model:** [View CAD Model on Onshape](https://cad.onshape.com/documents/29647b7642c6a92852f9c141/w/e913651535f8bf12c2ff7bff/e/1da40a6cccc6e58797d24128)
+
 
 **Overview:**  
 Mechanical design and CAD for a robotic arm fixture and node used in autonomous manipulation and testing.
@@ -108,7 +113,8 @@ Mechanical design and CAD for a robotic arm fixture and node used in autonomous 
 
 ## Embedded ML & Real-Time Inference Demo
 
-**Demo:** [YouTube](https://youtu.be/UvIVTmqDgEk)
+**Demo:** [![Embedded ML Demo](https://img.youtube.com/vi/UvIVTmqDgEk/0.jpg)](https://youtu.be/UvIVTmqDgEk)
+
 
 **Overview:**  
 Embedded ML deployment for real-time inference in a robotics context.
