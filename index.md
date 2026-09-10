@@ -5,6 +5,14 @@ title: "Autonomous Systems & Robotics"
 
 # Surender — Autonomous Systems & Robotics
 
+## Affiliations
+
+<p align="left">
+  <img src="lm.png" alt="Lockheed Martin" height="40" style="margin-right:20px;">
+  <img src="nsf.png" alt="NSF" height="40" style="margin-right:20px;">
+  <img src="cu.png" alt="CU Boulder" height="40">
+</p>
+
 ## About Me
 
 I’m an autonomy and robotics engineer focused on safety‑critical systems, robust GNC, dense perception, and multi‑sensor fusion. My work spans orbital docking, SLAM-based navigation, embedded ML, and mission-critical defense autonomy. I enjoy building full-stack robotics systems that combine perception, planning, and control into reliable autonomous behavior.
