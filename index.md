@@ -32,6 +32,8 @@ This page highlights selected projects and demos that reflect my trajectory towa
 
 For more detail, see the [Projects](projects.md) page.
 
+[Courses](courses.md)
+
 ---
 **Contact:** surender@gmail.com • LinkedIn: /in/surenderkannah • GitHub: skannah
 
