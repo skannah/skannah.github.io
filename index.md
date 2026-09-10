@@ -3,6 +3,17 @@ layout: home
 title: "Surender Kannah"
 ---
 
+<!-- Top Navigation Bar -->
+<div style="width:100%; display:flex; justify-content:center; gap:30px; padding:15px 0; font-size:18px;">
+  <a href="/" style="text-decoration:none;">Home</a>
+  <a href="projects.md" style="text-decoration:none;">Projects</a>
+  <a href="research.md" style="text-decoration:none;">Research</a>
+  <a href="courses.md" style="text-decoration:none;">Coursework</a>
+  <a href="Kannah_Surender_Resume.pdf" style="text-decoration:none;">Resume</a>
+</div>
+
+# Surender Kannah — Autonomous Systems & Robotics
+
 ## Affiliations
 
 <p align="left">
@@ -23,52 +34,121 @@ This page highlights selected projects and demos that reflect my trajectory towa
 ## Resume
 [Download Resume](https://skannah.github.io/Kannah_Surender_Resume.pdf)
 
-## Featured Projects
+---
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:25px;">
+# Featured Projects
 
-  <div style="text-align:center;">
-    <a href="https://youtu.be/rvvRkMmm3tA">
-      <img src="https://img.youtube.com/vi/rvvRkMmm3tA/0.jpg" style="width:100%; border-radius:8px;">
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:35px; margin-top:30px; margin-bottom:40px;">
+
+  <!-- Project 1 -->
+  <div style="position:relative; text-align:center; padding:10px;">
+    <a href="https://youtu.be/rvvRkMmm3tA" style="display:block; position:relative;">
+      <img src="https://img.youtube.com/vi/rvvRkMmm3tA/0.jpg"
+           style="width:100%; border-radius:10px;">
+      <div style="
+        position:absolute; top:0; left:0; width:100%; height:100%;
+        background:rgba(0,0,0,0.55); color:white; opacity:0;
+        border-radius:10px; display:flex; align-items:center;
+        justify-content:center; font-size:20px; transition:0.25s;"
+        onmouseover="this.style.opacity='1'"
+        onmouseout="this.style.opacity='0'">
+        View Project
+      </div>
     </a>
     <h3>Multi‑Sensor Fusion & Tracking</h3>
     <p>EKF fusion + JPDA/MHT multi‑hypothesis tracking.</p>
+    <p style="font-size:14px; color:#666;">
+      <span style="background:#eee; padding:4px 8px; border-radius:6px; margin-right:6px;">Fusion</span>
+      <span style="background:#eee; padding:4px 8px; border-radius:6px; margin-right:6px;">Tracking</span>
+      <span style="background:#eee; padding:4px 8px; border-radius:6px;">EKF</span>
+    </p>
   </div>
 
-  <div style="text-align:center;">
-    <a href="https://youtu.be/gd0OGeUqW24">
-      <img src="https://img.youtube.com/vi/gd0OGeUqW24/0.jpg" style="width:100%; border-radius:8px;">
+  <!-- Project 2 -->
+  <div style="position:relative; text-align:center; padding:10px;">
+    <a href="https://youtu.be/gd0OGeUqW24" style="display:block; position:relative;">
+      <img src="https://img.youtube.com/vi/gd0OGeUqW24/0.jpg"
+           style="width:100%; border-radius:10px;">
+      <div style="
+        position:absolute; top:0; left:0; width:100%; height:100%;
+        background:rgba(0,0,0,0.55); color:white; opacity:0;
+        border-radius:10px; display:flex; align-items:center;
+        justify-content:center; font-size:20px; transition:0.25s;"
+        onmouseover="this.style.opacity='1'"
+        onmouseout="this.style.opacity='0'">
+        View Project
+      </div>
     </a>
     <h3>TurtleBot3 Navigation — SLAM + Nav2</h3>
     <p>Full SLAM + AMCL + Nav2 stack with custom tuning.</p>
+    <p style="font-size:14px; color:#666;">
+      <span style="background:#eee; padding:4px 8px; border-radius:6px; margin-right:6px;">SLAM</span>
+      <span style="background:#eee; padding:4px 8px; border-radius:6px; margin-right:6px;">Nav2</span>
+      <span style="background:#eee; padding:4px 8px; border-radius:6px;">Robotics</span>
+    </p>
   </div>
 
-  <div style="text-align:center;">
-    <a href="https://youtu.be/SDDUo-M2lAQ">
-      <img src="https://img.youtube.com/vi/SDDUo-M2lAQ/0.jpg" style="width:100%; border-radius:8px;">
+  <!-- Project 3 -->
+  <div style="position:relative; text-align:center; padding:10px;">
+    <a href="https://youtu.be/SDDUo-M2lAQ" style="display:block; position:relative;">
+      <img src="https://img.youtube.com/vi/SDDUo-M2lAQ/0.jpg"
+           style="width:100%; border-radius:10px;">
+      <div style="
+        position:absolute; top:0; left:0; width:100%; height:100%;
+        background:rgba(0,0,0,0.55); color:white; opacity:0;
+        border-radius:10px; display:flex; align-items:center;
+        justify-content:center; font-size:20px; transition:0.25s;"
+        onmouseover="this.style.opacity='1'"
+        onmouseout="this.style.opacity='0'">
+        View Project
+      </div>
     </a>
     <h3>Robotic Arm</h3>
-    <p>Hardware + ML + Software Integration</p>
+    <p>Hardware + ML + Software Integration.</p>
+    <p style="font-size:14px; color:#666;">
+      <span style="background:#eee; padding:4px 8px; border-radius:6px; margin-right:6px;">Hardware</span>
+      <span style="background:#eee; padding:4px 8px; border-radius:6px; margin-right:6px;">ML</span>
+      <span style="background:#eee; padding:4px 8px; border-radius:6px;">Control</span>
+    </p>
   </div>
 
-  <div style="text-align:center;">
-    <a href="https://youtu.be/WRZVafBsNlI">
-      <img src="https://img.youtube.com/vi/WRZVafBsNlI/0.jpg" style="width:100%; border-radius:8px;">
+  <!-- Project 4 -->
+  <div style="position:relative; text-align:center; padding:10px;">
+    <a href="https://youtu.be/WRZVafBsNlI" style="display:block; position:relative;">
+      <img src="https://img.youtube.com/vi/WRZVafBsNlI/0.jpg"
+           style="width:100%; border-radius:10px;">
+      <div style="
+        position:absolute; top:0; left:0; width:100%; height:100%;
+        background:rgba(0,0,0,0.55); color:white; opacity:0;
+        border-radius:10px; display:flex; align-items:center;
+        justify-content:center; font-size:20px; transition:0.25s;"
+        onmouseover="this.style.opacity='1'"
+        onmouseout="this.style.opacity='0'">
+        View Project
+      </div>
     </a>
     <h3>Julia CV — Multi‑Camera Workflow</h3>
     <p>NSF I‑Corps CV workflow for defect detection across multi‑camera systems.</p>
+    <p style="font-size:14px; color:#666;">
+      <span style="background:#eee; padding:4px 8px; border-radius:6px; margin-right:6px;">CV</span>
+      <span style="background:#eee; padding:4px 8px; border-radius:6px; margin-right:6px;">I‑Corps</span>
+      <span style="background:#eee; padding:4px 8px; border-radius:6px;">Multi‑Camera</span>
+    </p>
   </div>
-
 
 </div>
 
 For more detail, see the [Projects](projects.md) page.
+
+---
 
 ## Coursework
 See selected graduate coursework: [Courses](courses.md)
 
 ## Research
 Explore my autonomy research interests: [Research](research.md)
+
+---
 
 ## Contact
 
