@@ -11,14 +11,6 @@ title: "Surender Kannah"
   <a href="Kannah_Surender_Resume.pdf" style="text-decoration:none;">Resume</a>
 </nav>
 
-# Surender Kannah — Autonomous Systems & Robotics
-
-<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; margin-top:10px; margin-bottom:20px;">
-  <a href="projects.md">Projects</a>
-  <a href="research.md">Research Interests</a>
-  <a href="courses.md">Graduate Coursework</a>
-</div>
-
 ## Affiliations
 
 <p align="left">
