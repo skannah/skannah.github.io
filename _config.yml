@@ -8,6 +8,9 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+url: "https://skannah.github.io"
+baseurl: ""
+
 header_pages:
   - index.md
   - projects.md
