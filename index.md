@@ -3,14 +3,6 @@ layout: home
 title: "Surender Kannah"
 ---
 
-<nav style="display:flex; justify-content:center; gap:30px; padding:15px 0; font-size:18px;">
-  <a href="/" style="text-decoration:none;">Home</a>
-  <a href="projects.md" style="text-decoration:none;">Projects</a>
-  <a href="research.md" style="text-decoration:none;">Research</a>
-  <a href="courses.md" style="text-decoration:none;">Coursework</a>
-  <a href="Kannah_Surender_Resume.pdf" style="text-decoration:none;">Resume</a>
-</nav>
-
 ## Affiliations
 
 <p align="left">
