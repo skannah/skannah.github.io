@@ -17,6 +17,9 @@ I build autonomous systems for safety-critical environments, with a focus on rob
 
 This page highlights selected projects and demos that reflect my trajectory toward orbital-grade autonomy and mission-critical robotics.
 
+## Resume
+[Download Resume](https://skannah.github.io/Kannah_Surender_Resume.pdf)
+
 ---
 
 ## Featured Projects
